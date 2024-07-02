@@ -1,0 +1,1 @@
+NEVER CREATE A README WHEN MAKING A REPO!!! just make it in VS
